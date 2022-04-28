@@ -1,0 +1,16 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  padding: 4rem;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  margin: 1rem;
+}
